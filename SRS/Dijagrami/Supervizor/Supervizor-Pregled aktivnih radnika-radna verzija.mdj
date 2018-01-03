@@ -1373,15 +1373,15 @@
 											"containerChangeable": false,
 											"containerExtending": false,
 											"left": 445,
-											"top": 455,
-											"width": 163,
-											"height": 13,
+											"top": 439,
+											"width": 159,
+											"height": 26,
 											"autoResize": false,
 											"underline": false,
-											"text": "Evidencija o zaposlenima",
+											"text": "Lista trenutno prijavljenih zaposlenih",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
-											"wordWrap": false
+											"wordWrap": true
 										},
 										{
 											"_type": "LabelView",
@@ -1445,9 +1445,9 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 440,
-									"top": 448,
-									"width": 173,
-									"height": 25,
+									"top": 432,
+									"width": 169,
+									"height": 38,
 									"autoResize": false,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFguS33g+SURAg="
@@ -1476,9 +1476,9 @@
 							"containerChangeable": true,
 							"containerExtending": false,
 							"left": 440,
-							"top": 448,
-							"width": 173,
-							"height": 25,
+							"top": 432,
+							"width": 169,
+							"height": 41,
 							"autoResize": false,
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
@@ -1488,7 +1488,7 @@
 							"nameCompartment": {
 								"$ref": "AAAAAAFguS33g+STLEk="
 							},
-							"wordWrap": false
+							"wordWrap": true
 						},
 						{
 							"_type": "UMLObjectFlowView",
@@ -1519,7 +1519,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 509,
-									"top": 405,
+									"top": 397,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1553,7 +1553,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 494,
-									"top": 405,
+									"top": 397,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1587,7 +1587,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 538,
-									"top": 406,
+									"top": 398,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1619,7 +1619,7 @@
 								"$ref": "AAAAAAFguS33g+SS3Bw="
 							},
 							"lineStyle": 0,
-							"points": "524:448;524:376",
+							"points": "524:432;524:376",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -1925,7 +1925,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFgkCGTs0UtFSo="
 							},
-							"name": "Evidencija o zaposlenima",
+							"name": "Lista trenutno prijavljenih zaposlenih",
 							"visibility": "public",
 							"isControlType": false,
 							"ordering": "FIFO"
