@@ -18,70 +18,73 @@
 
 
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-f27d807afb610bf126cbfb9ce429438a328e012239e5a77fc8152b794553dfc0.css" integrity="sha256-8n2AevthC/Emy/uc5ClDijKOASI55ad/yBUreUVT38A=" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-90814c795d836404981b54444a6ccc23fac2c6b0e1ce875e90784fbd83445bc5.css" integrity="sha256-kIFMeV2DZASYG1RESmzMI/rCxrDhzodekHhPvYNEW8U=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-700c269c41d75b60698a62d9306dae4a0f840bec4718545615f752400f1fd908.css" integrity="sha256-cAwmnEHXW2BpimLZMG2uSg+EC+xHGFRWFfdSQA8f2Qg=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-1d7717dfa90687d65ce00c80ab42271195164d949715783c2c80c9f85595784e.css" integrity="sha256-HXcX36kGh9Zc4AyAq0InEZUWTZSXFXg8LIDJ+FWVeE4=" media="all" rel="stylesheet" />
   
   
-  
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-e2f78def14631b7fd769bf918598cd7d437e67a706a2676aa466634d28ffaabd.css" integrity="sha256-4veN7xRjG3/Xab+RhZjNfUN+Z6cGomdqpGZjTSj/qr0=" media="all" rel="stylesheet" />
   
 
   <meta name="viewport" content="width=device-width">
   
-  <title>ISZ2017/datastoreNames.txt at master · pajser-bl/ISZ2017</title>
+  <title>prepravka use case-ova · pajser-bl/ISZ2017@26cd8d5 · GitHub</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars0.githubusercontent.com/u/16625491?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="pajser-bl/ISZ2017" property="og:title" /><meta content="https://github.com/pajser-bl/ISZ2017" property="og:url" /><meta content="ISZ2017 - ISZ SRS &quot;Pomoć na putu&quot;" property="og:description" />
+    <meta content="https://avatars2.githubusercontent.com/u/16625491?s=200&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="prepravka use case-ova · pajser-bl/ISZ2017@26cd8d5" property="og:title" /><meta content="https://github.com/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e" property="og:url" /><meta content="1514391313" property="og:updated_time" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjMyODM1MTczOjE1MTQ4MDg2YjRiMTZjMzg4ZjI4Y2M2NjM4YWMzNWQyMTYzZTA1MDk0NjA5Y2M0NGFjMWE3YTMwYTM5MzkyZTg=--d8c07a1577603d8e8f339582cec3f0282f7a1121">
+  
   <meta name="pjax-timeout" content="1000">
-  <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DC80:4000:4B32C8:7CA927:5A4E9F37" data-pjax-transient>
+  
+  <meta name="request-id" content="81C4:12C66:7E4AD5:D2704F:5A563E63" data-pjax-transient>
   
 
-  <meta name="selected-link" value="repo_source" data-pjax-transient>
+  <meta name="selected-link" value="repo_commits" data-pjax-transient>
 
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
   <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="DC80:4000:4B32C8:7CA927:5A4E9F37" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="16625491" name="octolytics-actor-id" /><meta content="pajser-bl" name="octolytics-actor-login" /><meta content="46e0696e3cb615439473393a5c68470fdb6c4397da22adbf9a7217a5a9895f2c" name="octolytics-actor-hash" />
-<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="81C4:12C66:7E4AD5:D2704F:5A563E63" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
+<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/commit/show" data-pjax-transient="true" name="analytics-location" />
 
 
 
 
-  <meta class="js-ga-set" name="dimension1" content="Logged In">
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
 
 
   
 
       <meta name="hostname" content="github.com">
-  <meta name="user-login" content="pajser-bl">
+  <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NmJhZTQwZjQ1OTI4NDA1MTgwYzllMDc3MzNhMTBiODYwOGQ1MDZhZTZkZGRmNzM5ZGRlM2E3NGRiZGFmMDE5OHx7InJlbW90ZV9hZGRyZXNzIjoiODkuMTEwLjIzOS4yMzAiLCJyZXF1ZXN0X2lkIjoiREM4MDo0MDAwOjRCMzJDODo3Q0E5Mjc6NUE0RTlGMzciLCJ0aW1lc3RhbXAiOjE1MTUxMDIwMTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZmVjMTUyOTI0ODY4ODNmNTUxNWFiZDcwZmExZGQzYWY4NWRhOTRiNzU0YmEzNjgyMzliYjc2MzAyYmY2ZWNhZnx7InJlbW90ZV9hZGRyZXNzIjoiMzEuMjIzLjIxOS4yMzciLCJyZXF1ZXN0X2lkIjoiODFDNDoxMkM2Njo3RTRBRDU6RDI3MDRGOjVBNTYzRTYzIiwidGltZXN0YW1wIjoxNTE1NjAxNTA4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
-    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,PROJECT_PROGRESS_BARS">
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
-  <meta name="html-safe-nonce" content="338ec9bd0f3ffca3a86b885528c52fbd0fbcd542">
+  <meta name="html-safe-nonce" content="79773cd99bdd1b03f9206f99c5367cc2d2ffbf5c">
 
-  <meta http-equiv="x-pjax-version" content="33fde39efb62989e9022eefd6d69d17a">
+  <meta http-equiv="x-pjax-version" content="d5a033af7bb24ba7f17b86971168a696">
   
 
-      <link href="https://github.com/pajser-bl/ISZ2017/commits/master.atom" rel="alternate" title="Recent Commits to ISZ2017:master" type="application/atom+xml">
+      <link data-pjax-transient="true" href="/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e.diff" rel="alternate" type="text/plain+diff" />
+  <link data-pjax-transient="true" href="/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e.patch" rel="alternate" type="text/plain+patch" />
+
+  <meta name="diff-view" content="unified" data-pjax-transient>
+  <link href="https://github.com/pajser-bl/ISZ2017/commits/26cd8d5b8d698a80428550fb834387676ba6985e.atom" rel="alternate" title="Recent Commits to ISZ2017:26cd8d5b8d698a80428550fb834387676ba6985e" type="application/atom+xml">
 
   <meta name="description" content="ISZ2017 - ISZ SRS &quot;Pomoć na putu&quot;">
   <meta name="go-import" content="github.com/pajser-bl/ISZ2017 git https://github.com/pajser-bl/ISZ2017.git">
 
-  <meta content="16625491" name="octolytics-dimension-user_id" /><meta content="pajser-bl" name="octolytics-dimension-user_login" /><meta content="114301423" name="octolytics-dimension-repository_id" /><meta content="pajser-bl/ISZ2017" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="114301423" name="octolytics-dimension-repository_network_root_id" /><meta content="pajser-bl/ISZ2017" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <meta content="16625491" name="octolytics-dimension-user_id" /><meta content="pajser-bl" name="octolytics-dimension-user_login" /><meta content="114301423" name="octolytics-dimension-repository_id" /><meta content="pajser-bl/ISZ2017" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="114301423" name="octolytics-dimension-repository_network_root_id" /><meta content="pajser-bl/ISZ2017" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/pajser-bl/ISZ2017/blob/master/SRS/Dijagrami/datastoreNames.txt" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -97,38 +100,62 @@
 
   </head>
 
-  <body class="logged-in env-production page-blob">
+  <body class="logged-out env-production">
     
 
   <div class="position-relative js-header-wrapper ">
-    <a href="#start-of-content" tabindex="1" class="bg-black text-white p-3 show-on-focus js-skip-to-content">Skip to content</a>
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
     
     
     
-      
 
 
 
-        
-<header class="Header  f5" role="banner">
-  <div class="d-flex px-3 flex-justify-between container-lg">
-    <div class="d-flex flex-justify-between">
-      <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
-  <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-</a>
-
+        <header class="Header header-logged-out  position-relative f4 py-3" role="banner">
+  <div class="container-lg d-flex px-3">
+    <div class="d-flex flex-justify-between flex-items-center">
+      <a class="header-logo-invertocat my-0" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      </a>
 
     </div>
 
-    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+    <div class="HeaderMenu HeaderMenu--bright d-flex flex-justify-between flex-auto">
+        <nav class="mt-0">
+          <ul class="d-flex list-style-none">
+              <li class="ml-2">
+                <a href="/features" class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:features" data-selected-links="/features /features/project-management /features/code-review /features/project-management /features/integrations /features">
+                  Features
+</a>              </li>
+              <li class="ml-4">
+                <a href="/business" class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:business" data-selected-links="/business /business/security /business/customers /business">
+                  Business
+</a>              </li>
+
+              <li class="ml-4">
+                <a href="/explore" class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore">
+                  Explore
+</a>              </li>
+
+              <li class="ml-4">
+                    <a href="/marketplace" class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:marketplace" data-selected-links=" /marketplace">
+                      Marketplace
+</a>              </li>
+              <li class="ml-4">
+                <a href="/pricing" class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:pricing" data-selected-links="/pricing /pricing/developer /pricing/team /pricing/business-hosted /pricing/business-enterprise /pricing">
+                  Pricing
+</a>              </li>
+          </ul>
+        </nav>
+
       <div class="d-flex">
-            <div class="">
-              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+          <div class="d-lg-flex flex-items-center mr-3">
+            <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/search" class="js-site-search-form" data-scoped-search-url="/pajser-bl/ISZ2017/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/pajser-bl/ISZ2017/blob/master/SRS/Dijagrami/datastoreNames.txt" class="header-search-scope no-underline">This repository</a>
+        <a href="/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -143,135 +170,19 @@
     </label>
 </form></div>
 
+          </div>
+
+        <span class="d-inline-block">
+            <div class="HeaderNavlink px-0 py-2 m-0">
+              <a class="text-bold text-white no-underline" href="/login?return_to=%2Fpajser-bl%2FISZ2017%2Fcommit%2F26cd8d5b8d698a80428550fb834387676ba6985e" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+                <span class="text-gray">or</span>
+                <a class="text-bold text-white no-underline" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
             </div>
-
-          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
-            <li>
-              <a href="/pulls" aria-label="Pull requests you created" class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:pulls context:user" data-hotkey="g p" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls">
-                Pull requests
-</a>            </li>
-            <li>
-              <a href="/issues" aria-label="Issues you created" class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:issues context:user" data-hotkey="g i" data-selected-links="/issues /issues/assigned /issues/mentioned /issues">
-                Issues
-</a>            </li>
-                <li>
-                  <a href="/marketplace" class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-selected-links=" /marketplace">
-                    Marketplace
-</a>                </li>
-            <li>
-              <a href="/explore" class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore">
-                Explore
-</a>            </li>
-          </ul>
+        </span>
       </div>
-
-      <div class="d-flex">
-        
-<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
-  <li class="dropdown js-menu-container">
-    <span class="d-inline-block  px-2">
-      
-
-    </span>
-  </li>
-
-  <li class="dropdown js-menu-container">
-    <details class="dropdown-details details-reset js-dropdown-details d-flex px-2 flex-items-center">
-      <summary class="HeaderNavlink"
-         aria-label="Create new…"
-         data-ga-click="Header, create new, icon:add">
-        <svg aria-hidden="true" class="octicon octicon-plus float-left mr-1 mt-1" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
-        <span class="dropdown-caret mt-1"></span>
-      </summary>
-
-      <ul class="dropdown-menu dropdown-menu-sw">
-        
-<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
-  New repository
-</a>
-
-  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
-    Import repository
-  </a>
-
-<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
-  New gist
-</a>
-
-  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
-    New organization
-  </a>
-
-
-
-  <div class="dropdown-divider"></div>
-  <div class="dropdown-header">
-    <span title="pajser-bl/ISZ2017">This repository</span>
-  </div>
-    <a class="dropdown-item" href="/pajser-bl/ISZ2017/issues/new" data-ga-click="Header, create new issue">
-      New issue
-    </a>
-
-      </ul>
-    </details>
-  </li>
-
-  <li class="dropdown js-menu-container">
-
-    <details class="dropdown-details details-reset js-dropdown-details d-flex pl-2 flex-items-center">
-      <summary class="HeaderNavlink name mt-1"
-        aria-label="View profile and more"
-        data-ga-click="Header, show menu, icon:avatar">
-        <img alt="@pajser-bl" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/16625491?s=40&amp;v=4" height="20" width="20">
-        <span class="dropdown-caret"></span>
-      </summary>
-
-      <ul class="dropdown-menu dropdown-menu-sw">
-        <li class="dropdown-header header-nav-current-user css-truncate">
-          Signed in as <strong class="css-truncate-target">pajser-bl</strong>
-        </li>
-
-        <li class="dropdown-divider"></li>
-
-        <li><a class="dropdown-item" href="/pajser-bl" data-ga-click="Header, go to profile, text:your profile">
-          Your profile
-        </a></li>
-        <li><a class="dropdown-item" href="/pajser-bl?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
-          Your stars
-        </a></li>
-          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your Gists</a></li>
-
-        <li class="dropdown-divider"></li>
-
-        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
-          Help
-        </a></li>
-
-        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
-          Settings
-        </a></li>
-
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NATWGGmMPk1h8pCbigd4g3zQnRKD+0VBEw4BFDC8ZecasFSkUFH58GvWnliVuZVlaAV2yu68vA8Q7Qi9Do2myg==" /></div>
-          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
-            Sign out
-          </button>
-        </form></li>
-      </ul>
-    </details>
-  </li>
-</ul>
-
-
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="i5etDk+lbcWW/Vh2aCopVbD96blnf4ZTcd6ljslnggalIy+ydniqeJzZVrV3lMSzpCgCYQo4fx1yPawn91ZBKw==" /></div>
-          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
-            Sign out
-          </button>
-</form>      </div>
     </div>
   </div>
 </header>
-
-      
 
   </div>
 
@@ -297,131 +208,42 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qAhCBCoG/tAqurqSijzxyrgJguuQLpmqNExrXYcyaQbRcm+oce9LLs6Pg+CB98PBVG8E6EQphrRLU4g5b+rIFg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="114301423" />
-
-        <div class="select-menu js-menu-container js-select-menu">
-          <a href="/pajser-bl/ISZ2017/subscription"
-            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
-            role="button"
-            aria-haspopup="true"
-            aria-expanded="false"
-            aria-label="Toggle repository notifications menu"
-            data-ga-click="Repository, click Watch settings, action:blob#show">
-            <span class="js-select-button">
-                <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-                Unwatch
-            </span>
-          </a>
-          <a class="social-count js-social-count"
-            href="/pajser-bl/ISZ2017/watchers"
-            aria-label="2 users are watching this repository">
-            2
-          </a>
-
-        <div class="select-menu-modal-holder">
-          <div class="select-menu-modal subscription-menu-modal js-menu-content">
-            <div class="select-menu-header js-navigation-enable" tabindex="-1">
-              <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
-              <span class="select-menu-title">Notifications</span>
-            </div>
-
-              <div class="select-menu-list js-navigation-container" role="menu">
-
-                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
-                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-                  <div class="select-menu-item-text">
-                    <input id="do_included" name="do" type="radio" value="included" />
-                    <span class="select-menu-item-heading">Not watching</span>
-                    <span class="description">Be notified when participating or @mentioned.</span>
-                    <span class="js-select-button-text hidden-select-button-text">
-                      <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-                      Watch
-                    </span>
-                  </div>
-                </div>
-
-                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
-                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-                  <div class="select-menu-item-text">
-                    <input checked="checked" id="do_subscribed" name="do" type="radio" value="subscribed" />
-                    <span class="select-menu-item-heading">Watching</span>
-                    <span class="description">Be notified of all conversations.</span>
-                    <span class="js-select-button-text hidden-select-button-text">
-                      <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-                        Unwatch
-                    </span>
-                  </div>
-                </div>
-
-                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
-                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-                  <div class="select-menu-item-text">
-                    <input id="do_ignore" name="do" type="radio" value="ignore" />
-                    <span class="select-menu-item-heading">Ignoring</span>
-                    <span class="description">Never be notified.</span>
-                    <span class="js-select-button-text hidden-select-button-text">
-                      <svg aria-hidden="true" class="octicon octicon-mute" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
-                        Stop ignoring
-                    </span>
-                  </div>
-                </div>
-
-              </div>
-
-            </div>
-          </div>
-        </div>
-</form>
-  </li>
-
-  <li>
-    
-  <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8uSZH8x9Ux/W9bAv8s7M5hKSKTsfN6R4F+ajAAErmu4wzZs5phtXEtEhhucO7SwiZ5u9TEQ5xWslE9g4t8N3RQ==" /></div>
-      <input type="hidden" name="context" value="repository"></input>
-      <button
-        type="submit"
-        class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar pajser-bl/ISZ2017"
-        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
-        <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
-        Unstar
-      </button>
-        <a class="social-count js-social-count" href="/pajser-bl/ISZ2017/stargazers"
-           aria-label="0 users starred this repository">
-          0
-        </a>
-</form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qpizF49HtcHKzMuzhFVQAXeKOosTKx9dLTC3dmZ1ebyBU+SSNuZ1aIGZ5hfVZEcip1IL5sATjpYxPLmc0FjLsg==" /></div>
-      <input type="hidden" name="context" value="repository"></input>
-      <button
-        type="submit"
-        class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star pajser-bl/ISZ2017"
-        data-ga-click="Repository, click star button, action:blob#show; text:Star">
-        <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
-        Star
-      </button>
-        <a class="social-count js-social-count" href="/pajser-bl/ISZ2017/stargazers"
-           aria-label="0 users starred this repository">
-          0
-        </a>
-</form>  </div>
+      <a href="/login?return_to=%2Fpajser-bl%2FISZ2017"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/pajser-bl/ISZ2017/watchers"
+     aria-label="2 users are watching this repository">
+    2
+  </a>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="44T/7LpxjhwWmN3TmuL+VPp3nw3Oc+LYHgF5yk3CRj1bkqJxr6spCwIW6N8JTVELnmiX1Pv+qheyjRomFnR4mg==" /></div>
-            <button
-                type="submit"
-                class="btn btn-sm btn-with-count"
-                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of pajser-bl/ISZ2017 to your account"
-                aria-label="Fork your own copy of pajser-bl/ISZ2017 to your account">
-              <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-              Fork
-            </button>
-</form>
+      <a href="/login?return_to=%2Fpajser-bl%2FISZ2017"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/pajser-bl/ISZ2017/stargazers"
+      aria-label="0 users starred this repository">
+      0
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fpajser-bl%2FISZ2017"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+      </a>
+
     <a href="/pajser-bl/ISZ2017/network" class="social-count"
        aria-label="0 users forked this repository">
       0
@@ -473,19 +295,13 @@
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a href="/pajser-bl/ISZ2017/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /pajser-bl/ISZ2017/wiki">
-      <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
-      Wiki
-</a>
+
 
   <a href="/pajser-bl/ISZ2017/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /pajser-bl/ISZ2017/pulse">
     <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
-    <a href="/pajser-bl/ISZ2017/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings /pajser-bl/ISZ2017/settings">
-      <svg aria-hidden="true" class="octicon octicon-gear" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
-      Settings
-</a>
+
 </nav>
 
 
@@ -495,204 +311,1458 @@
   <div class="repository-content ">
 
     
-  <a href="/pajser-bl/ISZ2017/blob/49b6cf3a0178a79bd4609918e19d3175ad99a753/SRS/Dijagrami/datastoreNames.txt" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
-
-  <!-- blob contrib key: blob_contributors:v21:15ad601474c549717e048eadc2e81e24 -->
-
-  <div class="file-navigation js-zeroclipboard-container">
-    
-<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
-  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    
-    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
-      <i>Branch:</i>
-      <span class="js-select-button css-truncate-target">master</span>
-  </button>
-
-  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
-
-    <div class="select-menu-modal">
-      <div class="select-menu-header">
-        <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
-        <span class="select-menu-title">Switch branches/tags</span>
-      </div>
-
-      <div class="select-menu-filters">
-        <div class="select-menu-text-filter">
-          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
-        </div>
-        <div class="select-menu-tabs">
-          <ul>
-            <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
-            </li>
-            <li class="select-menu-tab">
-              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
-
-        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+  <a href="/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/pajser-bl/ISZ2017/blob/master/SRS/Dijagrami/datastoreNames.txt"
-               data-name="master"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                master
-              </span>
-            </a>
-        </div>
+  
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9WkT0K+5Idzit2Gy1Ffnh86Rm7GLMS9fV4idErFqGG1Kl/lerLULxef5OaAzHjeIV/w4m3GFmpo35pSrDsYfIw==" /></div>
-          <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-            <div class="select-menu-item-text">
-              <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘master’</span>
-            </div>
-            <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="SRS/Dijagrami/datastoreNames.txt">
-</form>
-      </div>
+  <div class="commit full-commit  ">
+  <a href="/pajser-bl/ISZ2017/tree/26cd8d5b8d698a80428550fb834387676ba6985e" class="btn btn-outline float-right" title="Browse the repository at this point in the history" rel="nofollow">Browse files</a>
 
-      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
-        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+    <p class="commit-title">
+      prepravka use case-ova
+    </p>
 
 
-        </div>
-
-        <div class="select-menu-no-results">Nothing to show</div>
-      </div>
-
-    </div>
-  </div>
+  <div class="commit-branches">
+  
+    <svg aria-hidden="true" class="octicon octicon-git-branch" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+    <ul class="branches-list">
+        <li class="branch"><a href="/pajser-bl/ISZ2017">master</a></li>
+    </ul>
 </div>
 
-    <div class="BtnGroup float-right">
-      <a href="/pajser-bl/ISZ2017/find/master"
-            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
-            data-pjax
-            data-hotkey="t">
-        Find file
-      </a>
-      <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
+
+    <div class="commit-meta clearfix">
+      <span class="float-right">
+        <span class="sha-block" data-pjax>
+          1 parent
+            
+            <a href="/pajser-bl/ISZ2017/commit/b1d02c1060661d6c8cc365ce59c59280be45571c" class="sha" data-hotkey="p">b1d02c1</a>
+        </span>
+        <span class="sha-block">commit <span class="sha user-select-contain">26cd8d5b8d698a80428550fb834387676ba6985e</span></span>
+      </span>
+
+      <span class="commit-author-section">
+        <img alt="@pajser-bl" class="avatar" height="24" src="https://avatars3.githubusercontent.com/u/16625491?s=48&amp;v=4" width="24" />
+        <a href="/pajser-bl" class="user-mention" rel="author">pajser-bl</a>
+        
+        committed
+        <relative-time datetime="2017-12-27T16:15:13Z">Dec 27, 2017</relative-time>
+        
+
+      </span>
     </div>
-    <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/pajser-bl/ISZ2017"><span>ISZ2017</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/pajser-bl/ISZ2017/tree/master/SRS"><span>SRS</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/pajser-bl/ISZ2017/tree/master/SRS/Dijagrami"><span>Dijagrami</span></a></span><span class="separator">/</span><strong class="final-path">datastoreNames.txt</strong>
-    </div>
-  </div>
-
-
-  <include-fragment class="commit-tease" src="/pajser-bl/ISZ2017/contributors/master/SRS/Dijagrami/datastoreNames.txt">
-    <div>
-      Fetching contributors&hellip;
-    </div>
-
-    <div class="commit-tease-contributors">
-      <img alt="" class="loader-loading float-left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
-      <span class="loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment>
-
-  <div class="file">
-    <div class="file-header">
-  <div class="file-actions">
-
-    <div class="BtnGroup">
-      <a href="/pajser-bl/ISZ2017/raw/master/SRS/Dijagrami/datastoreNames.txt" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/pajser-bl/ISZ2017/blame/master/SRS/Dijagrami/datastoreNames.txt" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/pajser-bl/ISZ2017/commits/master/SRS/Dijagrami/datastoreNames.txt" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
-    </div>
-
-
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/edit/master/SRS/Dijagrami/datastoreNames.txt" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mJeWdG/j4fgBYYOFV5CjdFCmt72jvCkkNgkL0K0rOOSz7rNsRQ7ET4tQMa25//wfhFyh7E5DfQTYByFmTNF2Wg==" /></div>
-          <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-            aria-label="Edit this file" data-hotkey="e" data-disable-with>
-            <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-          </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pajser-bl/ISZ2017/delete/master/SRS/Dijagrami/datastoreNames.txt" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FBR23I4aFU78+2CoXiYHClJXCEsWxsQQbHL1B8abpwckRJKjMHa2rzudIN6929/X/NLyCv6+I5DDD83H7mWsGQ==" /></div>
-          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Delete this file" data-disable-with>
-            <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-          </button>
-</form>  </div>
-
-  <div class="file-info">
-      9 lines (8 sloc)
-      <span class="file-info-divider"></span>
-    155 Bytes
-  </div>
 </div>
 
-    
 
-  <div itemprop="text" class="blob-wrapper data type-text">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">lista zaposlenih</td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">lista trenutno prijavljenih zaposlenih</td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">mapa</td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">lista stanja terenskih radnika</td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">lista clanova</td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">lista intervenicja</td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">lista izvjestaja</td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">lista sesija</td>
-      </tr>
-</table>
 
-  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
-    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" id="js-file-line-action-button" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
-      <svg aria-hidden="true" class="octicon octicon-kebab-horizontal" height="16" version="1.1" viewBox="0 0 13 16" width="13"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg>
+
+      <a name="diff-stat"></a>
+      <div id="toc" class="details-collapse table-of-contents js-details-container Details">
+  <div class="BtnGroup float-right" data-ga-load="Diff, view, Viewed Unified Diff">
+  <a class="btn btn-sm selected BtnGroup-item" href="https://github.com/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e?diff=unified">
+    Unified
+  </a>
+  <a class="btn btn-sm BtnGroup-item" href="https://github.com/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e?diff=split">
+    Split
+  </a>
+</div>
+
+
+  <div class="toc-diff-stats">
+    <svg aria-hidden="true" class="octicon octicon-diff" height="16" version="1.1" viewBox="0 0 13 16" width="13"><path fill-rule="evenodd" d="M6 7h2v1H6v2H5V8H3V7h2V5h1v2zm-3 6h5v-1H3v1zM7.5 2L11 5.5V15c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h6.5zM10 6L7 3H1v12h9V6zM8.5 0H3v1h5l4 4v8h1V4.5L8.5 0z"/></svg>
+    Showing
+    <button type="button" class="btn-link js-details-target" aria-expanded="false">
+      29 changed files
     </button>
-    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
-        <li><a class="js-zeroclipboard dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</a></li>
-        <li><a class="js-zeroclipboard dropdown-item" id= "js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</a></li>
-        <li><a href="/pajser-bl/ISZ2017/blame/49b6cf3a0178a79bd4609918e19d3175ad99a753/SRS/Dijagrami/datastoreNames.txt" class="dropdown-item js-update-url-with-hash" id="js-view-git-blame">View git blame</a></li>
-          <li><a href="/pajser-bl/ISZ2017/issues/new" class="dropdown-item" id="js-new-issue">Open new issue</a></li>
-      </ul>
+    with
+    <strong>3,060 additions</strong>
+    and <strong>9,289 deletions</strong>.
+  </div>
+
+  <ol class="content collapse js-transitionable">
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-9936e0bfcab0d4a70f61a5621abf078a" class="tooltipped tooltipped-w" aria-label="Binary file removed">
+            BIN
+            <span class="text-red">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-removed" height="16" title="removed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zm-2-5H3V7h8v2z"/></svg>
+      <a href="#diff-9936e0bfcab0d4a70f61a5621abf078a">SRS/Dijagrami/Administrator.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-7d45829228a7e6582d4040c0b116c35e" class="tooltipped tooltipped-w" aria-label="Binary file removed">
+            BIN
+            <span class="text-red">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-removed" height="16" title="removed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zm-2-5H3V7h8v2z"/></svg>
+      <a href="#diff-7d45829228a7e6582d4040c0b116c35e">SRS/Dijagrami/Operater.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +0
+          </span>
+          <span class="text-red">
+            −1
+          </span>
+          <a href="#diff-b66d42933ab5941778addb1332c75182" class="tooltipped tooltipped-s" aria-label="1 line changed">
+            <span class="block-diff-deleted"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-removed" height="16" title="removed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zm-2-5H3V7h8v2z"/></svg>
+      <a href="#diff-b66d42933ab5941778addb1332c75182">SRS/Dijagrami/Supervizor</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-9768d90a6e0caf8cdbf23110ed1d0799" class="tooltipped tooltipped-w" aria-label="Binary file removed">
+            BIN
+            <span class="text-red">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-removed" height="16" title="removed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zm-2-5H3V7h8v2z"/></svg>
+      <a href="#diff-9768d90a6e0caf8cdbf23110ed1d0799">SRS/Dijagrami/Supervizor.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-39c982f171ad280d0b0c897ff48a8182" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-39c982f171ad280d0b0c897ff48a8182">SRS/Dijagrami/{ → Supervizor}/Supervizor-Pisanje mjesecnih izvjestaja.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-a30f529831f0ee2072a53bac8b05cab9" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-a30f529831f0ee2072a53bac8b05cab9">SRS/Dijagrami/{ → Supervizor}/Supervizor-Pisanje napomena.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-52b01a534f2c89204731531f22cc9e68" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-52b01a534f2c89204731531f22cc9e68">SRS/Dijagrami/{ → Supervizor}/Supervizor-Pregled aktivnih radnika.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-49a7d5138cb55ffebe869dcfd99fe7b0" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-49a7d5138cb55ffebe869dcfd99fe7b0">SRS/Dijagrami/{ → Supervizor}/Supervizor-Pristupanje izvjestajima.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-c7a48a797ca0f096b603c3f9eaa101ba" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-c7a48a797ca0f096b603c3f9eaa101ba">SRS/Dijagrami/{ → Supervizor}/Supervizor-Pristupanje listi zaposlenih.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-28a7f8502633b6cb82283d79fcca101a" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-28a7f8502633b6cb82283d79fcca101a">SRS/Dijagrami/{ → Supervizor}/Supervizor-Stampanje dokumenta.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-0be0be1b1049ffe8537e3e78d88d86c7" class="muted-link tooltipped tooltipped-w" aria-label="File renamed without changes">
+            0
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-0be0be1b1049ffe8537e3e78d88d86c7">SRS/Dijagrami/{ → Terenski Radnik}/Pisanje intervencije.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-eed3ede28595ce773eea37679a454afe" class="muted-link tooltipped tooltipped-w" aria-label="File renamed without changes">
+            0
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-eed3ede28595ce773eea37679a454afe">SRS/Dijagrami/{ → Terenski Radnik}/Preuzimanje intervencije.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-306a1939d863ff5c6470f61560e41700" class="muted-link tooltipped tooltipped-w" aria-label="File renamed without changes">
+            0
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-306a1939d863ff5c6470f61560e41700">SRS/Dijagrami/{ → Terenski Radnik}/Promjena izvještaja.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-2feabfa3e458e143da59de8593986f4e" class="muted-link tooltipped tooltipped-w" aria-label="File renamed without changes">
+            0
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-2feabfa3e458e143da59de8593986f4e">SRS/Dijagrami/{ → Terenski Radnik}/Slanje izvjestaja.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-544075c2c4f6e29c3be4e907c9632336" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-544075c2c4f6e29c3be4e907c9632336">SRS/Dijagrami/{ → Terenski Radnik}/Terenski_radnik_mjenjanje_stanja.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-546ea5590ee84652d6aec1f0fb8844c0" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-546ea5590ee84652d6aec1f0fb8844c0">SRS/Dijagrami/{ → Terenski Radnik}/Terenski_radnik_preged_sesije_ovo_za_sve_radnike.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-f5a36506526a7311d53969b1b765da53" class="tooltipped tooltipped-w" aria-label="Binary file renamed">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-f5a36506526a7311d53969b1b765da53">SRS/Dijagrami/{ → Terenski Radnik}/Terenski_radnik_prikaz_mape.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-d8fa983b4a56176f29b40d5314ead228" class="tooltipped tooltipped-w" aria-label="Binary file removed">
+            BIN
+            <span class="text-red">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-removed" height="16" title="removed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zm-2-5H3V7h8v2z"/></svg>
+      <a href="#diff-d8fa983b4a56176f29b40d5314ead228">SRS/Dijagrami/Terenski_radnik.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +550
+          </span>
+          <span class="text-red">
+            −1,796
+          </span>
+          <a href="#diff-2c1f843ca3775543fba3bbd4bfa00b4d" class="tooltipped tooltipped-s" aria-label="2,346 lines changed">
+            <span class="block-diff-added"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-2c1f843ca3775543fba3bbd4bfa00b4d">SRS/Dijagrami/{ → USECASE}/Administrator - radna verzija.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-3449e774696ca20a4d5ad2865887bf58" class="tooltipped tooltipped-w" aria-label="Binary file added">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-3449e774696ca20a4d5ad2865887bf58">SRS/Dijagrami/USECASE/Administrator.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +32
+          </span>
+          <span class="text-red">
+            −1,792
+          </span>
+          <a href="#diff-b104b4e9b23cbbacdc2d5af367bd890b" class="tooltipped tooltipped-s" aria-label="1,824 lines changed">
+            <span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-b104b4e9b23cbbacdc2d5af367bd890b">SRS/Dijagrami/{ → USECASE}/Operater -radna verzija.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-197677258da86794e1f80d0de102d99a" class="tooltipped tooltipped-w" aria-label="Binary file added">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-197677258da86794e1f80d0de102d99a">SRS/Dijagrami/USECASE/Operater.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +944
+          </span>
+          <span class="text-red">
+            −2,004
+          </span>
+          <a href="#diff-d7d7a0b95e6f5cb772102dbafce553d4" class="tooltipped tooltipped-s" aria-label="2,948 lines changed">
+            <span class="block-diff-added"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-d7d7a0b95e6f5cb772102dbafce553d4">SRS/Dijagrami/{ → USECASE}/Supervizor - radna verzija.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-95b7032c89c82d0ea776aafe1946d745" class="tooltipped tooltipped-w" aria-label="Binary file added">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-95b7032c89c82d0ea776aafe1946d745">SRS/Dijagrami/USECASE/Supervizor.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +1,214
+          </span>
+          <span class="text-red">
+            −3,588
+          </span>
+          <a href="#diff-088d28116d51e987f8abdced9ca54852" class="tooltipped tooltipped-s" aria-label="4,802 lines changed">
+            <span class="block-diff-added"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-deleted"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-088d28116d51e987f8abdced9ca54852">SRS/Dijagrami/{ → USECASE}/Terenski_radnik - radna verzija.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-d85650ee3f6b2e8a5a09a572f9881acd" class="tooltipped tooltipped-w" aria-label="Binary file added">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-d85650ee3f6b2e8a5a09a572f9881acd">SRS/Dijagrami/USECASE/Terenski_radnik.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <a href="#diff-73870c6037bc5862cd47bb8c9415e8e8" class="tooltipped tooltipped-w" aria-label="Binary file added">
+            BIN
+            <span class="text-green">
+              <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+            </span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-73870c6037bc5862cd47bb8c9415e8e8">SRS/Dijagrami/USECASE/Zaposleni_prijava_odjava.jpg</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +312
+          </span>
+          <span class="text-red">
+            −108
+          </span>
+          <a href="#diff-f117e3211518731dece88d84f25ec5ee" class="tooltipped tooltipped-s" aria-label="420 lines changed">
+            <span class="block-diff-added"></span><span class="block-diff-added"></span><span class="block-diff-added"></span><span class="block-diff-deleted"></span><span class="block-diff-neutral"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-renamed" height="16" title="renamed" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M6 9H3V7h3V4l5 4-5 4V9zm8-7v12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h12c.55 0 1 .45 1 1zm-1 0H1v12h12V2z"/></svg>
+      <a href="#diff-f117e3211518731dece88d84f25ec5ee">SRS/Dijagrami/{ → USECASE}/usecase_Zaposleni.mdj</a>
+    </li>
+    <li>
+      <span class="diffstat float-right">
+          <span class="text-green">
+            +8
+          </span>
+          <span class="text-red">
+            −0
+          </span>
+          <a href="#diff-91d8c8cfd9a4f78cce43878b70536179" class="tooltipped tooltipped-s" aria-label="8 lines changed">
+            <span class="block-diff-added"></span><span class="block-diff-added"></span><span class="block-diff-added"></span><span class="block-diff-added"></span><span class="block-diff-added"></span>
+          </a>
+      </span>
+      <svg aria-hidden="true" class="octicon octicon-diff-added" height="16" title="added" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z"/></svg>
+      <a href="#diff-91d8c8cfd9a4f78cce43878b70536179">SRS/Dijagrami/datastoreNames.txt</a>
+    </li>
+  </ol>
+</div>
+
+    <div id="files" class="diff-view ">
+
+  <div class="js-diff-progressive-container">
+    
+<a name="diff-9936e0bfcab0d4a70f61a5621abf078a"></a>
+<div id="diff-0"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Administrator.jpg" data-short-path="9936e0b" data-anchor="diff-9936e0bfcab0d4a70f61a5621abf078a">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/b1d02c1060661d6c8cc365ce59c59280be45571c/SRS/Dijagrami/Administrator.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version b1d02c1 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="Binary file removed">
+          BIN
+          <span class="text-red">
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </span>
+        </span>
+
+      <a href="#diff-9936e0bfcab0d4a70f61a5621abf078a" class="link-gray-dark"
+         title="SRS/Dijagrami/Administrator.jpg">SRS/Dijagrami/Administrator.jpg</a>
+
+      
     </div>
   </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          Deleted file not rendered
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-7d45829228a7e6582d4040c0b116c35e"></a>
+<div id="diff-1"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Operater.jpg" data-short-path="7d45829" data-anchor="diff-7d45829228a7e6582d4040c0b116c35e">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/b1d02c1060661d6c8cc365ce59c59280be45571c/SRS/Dijagrami/Operater.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version b1d02c1 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="Binary file removed">
+          BIN
+          <span class="text-red">
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </span>
+        </span>
+
+      <a href="#diff-7d45829228a7e6582d4040c0b116c35e" class="link-gray-dark"
+         title="SRS/Dijagrami/Operater.jpg">SRS/Dijagrami/Operater.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          Deleted file not rendered
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-b66d42933ab5941778addb1332c75182"></a>
+<div id="diff-2"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor" data-short-path="b66d429" data-anchor="diff-b66d42933ab5941778addb1332c75182">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/b1d02c1060661d6c8cc365ce59c59280be45571c/SRS/Dijagrami/Supervizor" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version b1d02c1 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="0 additions &amp; 1 deletion">1 <span class="block-diff-deleted"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span></span>
+
+      <a href="#diff-b66d42933ab5941778addb1332c75182" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor">SRS/Dijagrami/Supervizor</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight blob-wrapper">
+          <table class="diff-table tab-size  " data-tab-size="8">
+            
+      <tr data-position="0">
+    <td id="diff-b66d42933ab5941778addb1332c75182L0" class="blob-num blob-num-hunk non-expandable" data-line-number="..."></td>
+    <td id="diff-b66d42933ab5941778addb1332c75182R-1" class="blob-num blob-num-hunk non-expandable" data-line-number="..."></td>
+    <td class="blob-code blob-code-inner blob-code-hunk">@@ -1 +0,0 @@</td>
+  </tr>
+
+    <tr>
+    <td id="diff-b66d42933ab5941778addb1332c75182L1" data-line-number="1"
+        class="blob-num blob-num-deletion js-linkable-line-number"></td>
+
+    <td class="blob-num blob-num-deletion empty-cell"></td>
+
+  <td class="blob-code blob-code-deletion">
+
+    <span class="blob-code-inner">-</span>
+
+  </td>
+</tr>
+
+
+
+          </table>
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-9768d90a6e0caf8cdbf23110ed1d0799"></a>
+<div id="diff-3"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor.jpg" data-short-path="9768d90" data-anchor="diff-9768d90a6e0caf8cdbf23110ed1d0799">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/b1d02c1060661d6c8cc365ce59c59280be45571c/SRS/Dijagrami/Supervizor.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version b1d02c1 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="Binary file removed">
+          BIN
+          <span class="text-red">
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </span>
+        </span>
+
+      <a href="#diff-9768d90a6e0caf8cdbf23110ed1d0799" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor.jpg">SRS/Dijagrami/Supervizor.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          Deleted file not rendered
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-39c982f171ad280d0b0c897ff48a8182"></a>
+<div id="diff-4"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Pisanje mjesecnih izvjestaja.jpg" data-short-path="39c982f" data-anchor="diff-39c982f171ad280d0b0c897ff48a8182">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Pisanje%20mjesecnih%20izvjestaja.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-39c982f171ad280d0b0c897ff48a8182" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Pisanje mjesecnih izvjestaja.jpg → SRS/Dijagrami/Supervizor/Supervizor-Pisanje mjesecnih izvjestaja.jpg">...pervizor-Pisanje mjesecnih izvjestaja.jpg → ...pervizor-Pisanje mjesecnih izvjestaja.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-a30f529831f0ee2072a53bac8b05cab9"></a>
+<div id="diff-5"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Pisanje napomena.jpg" data-short-path="a30f529" data-anchor="diff-a30f529831f0ee2072a53bac8b05cab9">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Pisanje%20napomena.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-a30f529831f0ee2072a53bac8b05cab9" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Pisanje napomena.jpg → SRS/Dijagrami/Supervizor/Supervizor-Pisanje napomena.jpg">...Dijagrami/Supervizor-Pisanje napomena.jpg → ...upervizor/Supervizor-Pisanje napomena.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-52b01a534f2c89204731531f22cc9e68"></a>
+<div id="diff-6"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Pregled aktivnih radnika.jpg" data-short-path="52b01a5" data-anchor="diff-52b01a534f2c89204731531f22cc9e68">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Pregled%20aktivnih%20radnika.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-52b01a534f2c89204731531f22cc9e68" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Pregled aktivnih radnika.jpg → SRS/Dijagrami/Supervizor/Supervizor-Pregled aktivnih radnika.jpg">...i/Supervizor-Pregled aktivnih radnika.jpg → ...r/Supervizor-Pregled aktivnih radnika.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-49a7d5138cb55ffebe869dcfd99fe7b0"></a>
+<div id="diff-7"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Pristupanje izvjestajima.jpg" data-short-path="49a7d51" data-anchor="diff-49a7d5138cb55ffebe869dcfd99fe7b0">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Pristupanje%20izvjestajima.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-49a7d5138cb55ffebe869dcfd99fe7b0" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Pristupanje izvjestajima.jpg → SRS/Dijagrami/Supervizor/Supervizor-Pristupanje izvjestajima.jpg">...i/Supervizor-Pristupanje izvjestajima.jpg → ...r/Supervizor-Pristupanje izvjestajima.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-c7a48a797ca0f096b603c3f9eaa101ba"></a>
+<div id="diff-8"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Pristupanje listi zaposlenih.jpg" data-short-path="c7a48a7" data-anchor="diff-c7a48a797ca0f096b603c3f9eaa101ba">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Pristupanje%20listi%20zaposlenih.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-c7a48a797ca0f096b603c3f9eaa101ba" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Pristupanje listi zaposlenih.jpg → SRS/Dijagrami/Supervizor/Supervizor-Pristupanje listi zaposlenih.jpg">...pervizor-Pristupanje listi zaposlenih.jpg → ...pervizor-Pristupanje listi zaposlenih.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-28a7f8502633b6cb82283d79fcca101a"></a>
+<div id="diff-9"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Supervizor/Supervizor-Stampanje dokumenta.jpg" data-short-path="28a7f85" data-anchor="diff-28a7f8502633b6cb82283d79fcca101a">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Supervizor/Supervizor-Stampanje%20dokumenta.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-28a7f8502633b6cb82283d79fcca101a" class="link-gray-dark"
+         title="SRS/Dijagrami/Supervizor-Stampanje dokumenta.jpg → SRS/Dijagrami/Supervizor/Supervizor-Stampanje dokumenta.jpg">...agrami/Supervizor-Stampanje dokumenta.jpg → ...rvizor/Supervizor-Stampanje dokumenta.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-0be0be1b1049ffe8537e3e78d88d86c7"></a>
+<div id="diff-10"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Pisanje intervencije.mdj" data-short-path="0be0be1" data-anchor="diff-0be0be1b1049ffe8537e3e78d88d86c7">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Pisanje%20intervencije.mdj" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-0be0be1b1049ffe8537e3e78d88d86c7" class="link-gray-dark"
+         title="SRS/Dijagrami/Pisanje intervencije.mdj → SRS/Dijagrami/Terenski Radnik/Pisanje intervencije.mdj">SRS/Dijagrami/Pisanje intervencije.mdj → .../Terenski Radnik/Pisanje intervencije.mdj</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          File renamed without changes.
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-eed3ede28595ce773eea37679a454afe"></a>
+<div id="diff-11"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Preuzimanje intervencije.mdj" data-short-path="eed3ede" data-anchor="diff-eed3ede28595ce773eea37679a454afe">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Preuzimanje%20intervencije.mdj" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-eed3ede28595ce773eea37679a454afe" class="link-gray-dark"
+         title="SRS/Dijagrami/Preuzimanje intervencije.mdj → SRS/Dijagrami/Terenski Radnik/Preuzimanje intervencije.mdj">SRS/Dijagrami/Preuzimanje intervencije.mdj → ...enski Radnik/Preuzimanje intervencije.mdj</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          File renamed without changes.
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-306a1939d863ff5c6470f61560e41700"></a>
+<div id="diff-12"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Promjena izvještaja.mdj" data-short-path="306a193" data-anchor="diff-306a1939d863ff5c6470f61560e41700">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Promjena%20izvje%C5%A1taja.mdj" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-306a1939d863ff5c6470f61560e41700" class="link-gray-dark"
+         title="SRS/Dijagrami/Promjena izvještaja.mdj → SRS/Dijagrami/Terenski Radnik/Promjena izvještaja.mdj">SRS/Dijagrami/Promjena izvještaja.mdj → ...i/Terenski Radnik/Promjena izvještaja.mdj</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          File renamed without changes.
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-2feabfa3e458e143da59de8593986f4e"></a>
+<div id="diff-13"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Slanje izvjestaja.mdj" data-short-path="2feabfa" data-anchor="diff-2feabfa3e458e143da59de8593986f4e">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Slanje%20izvjestaja.mdj" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-2feabfa3e458e143da59de8593986f4e" class="link-gray-dark"
+         title="SRS/Dijagrami/Slanje izvjestaja.mdj → SRS/Dijagrami/Terenski Radnik/Slanje izvjestaja.mdj">SRS/Dijagrami/Slanje izvjestaja.mdj → ...ami/Terenski Radnik/Slanje izvjestaja.mdj</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          File renamed without changes.
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-544075c2c4f6e29c3be4e907c9632336"></a>
+<div id="diff-14"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Terenski_radnik_mjenjanje_stanja.jpg" data-short-path="544075c" data-anchor="diff-544075c2c4f6e29c3be4e907c9632336">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Terenski_radnik_mjenjanje_stanja.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-544075c2c4f6e29c3be4e907c9632336" class="link-gray-dark"
+         title="SRS/Dijagrami/Terenski_radnik_mjenjanje_stanja.jpg → SRS/Dijagrami/Terenski Radnik/Terenski_radnik_mjenjanje_stanja.jpg">...rami/Terenski_radnik_mjenjanje_stanja.jpg → ...dnik/Terenski_radnik_mjenjanje_stanja.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-546ea5590ee84652d6aec1f0fb8844c0"></a>
+<div id="diff-15"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Terenski_radnik_preged_sesije_ovo_za_sve_radnike.jpg" data-short-path="546ea55" data-anchor="diff-546ea5590ee84652d6aec1f0fb8844c0">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Terenski_radnik_preged_sesije_ovo_za_sve_radnike.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-546ea5590ee84652d6aec1f0fb8844c0" class="link-gray-dark"
+         title="SRS/Dijagrami/Terenski_radnik_preged_sesije_ovo_za_sve_radnike.jpg → SRS/Dijagrami/Terenski Radnik/Terenski_radnik_preged_sesije_ovo_za_sve_radnike.jpg">...dnik_preged_sesije_ovo_za_sve_radnike.jpg → ...dnik_preged_sesije_ovo_za_sve_radnike.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-f5a36506526a7311d53969b1b765da53"></a>
+<div id="diff-16"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski Radnik/Terenski_radnik_prikaz_mape.jpg" data-short-path="f5a3650" data-anchor="diff-f5a36506526a7311d53969b1b765da53">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/26cd8d5b8d698a80428550fb834387676ba6985e/SRS/Dijagrami/Terenski%20Radnik/Terenski_radnik_prikaz_mape.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version 26cd8d5 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="File renamed without changes">
+          0
+          <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+        </span>
+
+      <a href="#diff-f5a36506526a7311d53969b1b765da53" class="link-gray-dark"
+         title="SRS/Dijagrami/Terenski_radnik_prikaz_mape.jpg → SRS/Dijagrami/Terenski Radnik/Terenski_radnik_prikaz_mape.jpg">...Dijagrami/Terenski_radnik_prikaz_mape.jpg → ...ki Radnik/Terenski_radnik_prikaz_mape.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+            File renamed without changes
+        </div>
+
+  </div>
+</div>
+
+    
+<a name="diff-d8fa983b4a56176f29b40d5314ead228"></a>
+<div id="diff-17"
+     class="file js-file js-details-container Details
+             
+             
+             
+             
+             
+              show-inline-notes
+           ">
+  <div class="file-header js-file-header" data-path="SRS/Dijagrami/Terenski_radnik.jpg" data-short-path="d8fa983" data-anchor="diff-d8fa983b4a56176f29b40d5314ead228">
+    <div class="file-actions">
+
+        <span class="show-file-notes pt-1">
+          <label>
+            <input type="checkbox" checked="checked" class="js-toggle-file-notes">
+            Show comments
+          </label>
+        </span>
+
+          <a href="/pajser-bl/ISZ2017/blob/b1d02c1060661d6c8cc365ce59c59280be45571c/SRS/Dijagrami/Terenski_radnik.jpg" class="btn btn-sm tooltipped tooltipped-nw" rel="nofollow" aria-label="View the whole file at version b1d02c1 ">View</a>
+
+
+      <button type="button" class="btn-octicon p-1 pr-2 js-details-target" aria-label="Toggle diff text" aria-expanded="true">
+        <svg aria-hidden="true" class="octicon octicon-chevron-down Details-content--shown" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6z"/></svg>
+        <svg aria-hidden="true" class="octicon octicon-chevron-up Details-content--hidden" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5z"/></svg>
+      </button>
+    </div>
+    <div class="file-info">
+        <span class="diffstat tooltipped tooltipped-e" aria-label="Binary file removed">
+          BIN
+          <span class="text-red">
+            <span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span><span class="block-diff-neutral"></span>
+          </span>
+        </span>
+
+      <a href="#diff-d8fa983b4a56176f29b40d5314ead228" class="link-gray-dark"
+         title="SRS/Dijagrami/Terenski_radnik.jpg">SRS/Dijagrami/Terenski_radnik.jpg</a>
+
+      
+    </div>
+  </div>
+  <div class="js-file-content Details-content--shown">
+
+        <div class="data highlight empty">
+          Deleted file not rendered
+        </div>
+
+  </div>
+</div>
 
   </div>
 
+    <div class="js-diff-progressive-container">
+  <include-fragment src="/pajser-bl/ISZ2017/diffs?bytes=15&amp;commit=26cd8d5b8d698a80428550fb834387676ba6985e&amp;lines=2&amp;sha1=b1d02c1060661d6c8cc365ce59c59280be45571c&amp;sha2=26cd8d5b8d698a80428550fb834387676ba6985e&amp;start_entry=18" class="diff-progressive-loader js-diff-progressive-loader mb-4 d-flex flex-items-center flex-justify-center">
+    <img alt="" class="js-diff-progressive-spinner" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
+
+    <div class="js-diff-progressive-retry d-none">
+      <svg aria-hidden="true" class="octicon octicon-alert text-red mr-1" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+      Oops, something went wrong.
+      <button type="button" class="btn-link js-retry-button">Retry</button>
+    </div>
+  </include-fragment>
+</div>
+
+</div>
+
+<button type="button" class="js-toggle-all-file-notes" data-hotkey="i" style="display:none">Toggle all file notes</button>
+
+<svg aria-hidden="true" width="340px" height="84px" viewBox="0 0 340 84" version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  class="diff-placeholder-svg position-absolute bottom-0">
+  <defs>
+    <clippath id="diff-placeholder">
+      <rect x="0" y="0" width="67.0175439" height="11.9298746" rx="2"></rect>
+      <rect x="18.9473684" y="47.7194983" width="100.701754" height="11.9298746" rx="2"></rect>
+      <rect x="0" y="71.930126" width="37.8947368" height="11.9298746" rx="2"></rect>
+      <rect x="127.017544" y="48.0703769" width="53.3333333" height="11.9298746" rx="2"></rect>
+      <rect x="187.719298" y="48.0703769" width="72.9824561" height="11.9298746" rx="2"></rect>
+      <rect x="76.8421053" y="0" width="140.350877" height="11.9298746" rx="2"></rect>
+      <rect x="17.8947368" y="23.8597491" width="140.350877" height="11.9298746" rx="2"></rect>
+      <rect x="166.315789" y="23.8597491" width="173.684211" height="11.9298746" rx="2"></rect>
+    </clippath>
+
+    <linearGradient id="animated-diff-gradient" x1="0" x2="0" y1="0" y2="1" spreadMethod="reflect">
+      <stop offset="0" stop-color="#eee"></stop>
+      <stop offset="0.2" stop-color="#eee"></stop>
+      <stop offset="0.5" stop-color="#ddd"></stop>
+      <stop offset="0.8" stop-color="#eee"></stop>
+      <stop offset="1" stop-color="#eee"></stop>
+      <animateTransform attributeName="y1" values="0%; 100%; 0" dur="1s" repeatCount="3"></animateTransform>
+      <animateTransform attributeName="y2" values="100%; 200%; 0" dur="1s" repeatCount="3"></animateTransform>
+    </linearGradient>
+  </defs>
+</svg>
+
+
+
+  <div id="all_commit_comments" class="js-quote-selection-container ">
+
+    <div class="commit-comments-heading">
+      
+<div id="partial-visible-comments-header">
+  <span class="float-right">
+    
+  </span>
+
+  <h4 class="commit-comment-count">
+    0 comments
+    on commit <code class="commit-sha">26cd8d5</code>
+  </h4>
+
+</div>
+
+    </div>
+
+    <div id="comments" class="comment-holder">
+      
+
+
+  <!-- Rendered timeline since 2017-12-27 08:15:13 -->
+  <div id="partial-timeline-marker"
+        class="js-timeline-marker js-socket-channel js-updatable-content"
+        data-channel="repo:114301423:commit:26cd8d5b8d698a80428550fb834387676ba6985e"
+        data-url="/pajser-bl/ISZ2017/commit/26cd8d5b8d698a80428550fb834387676ba6985e/show_partial?partial=commit%2Ftimeline_marker&amp;since=1514391313"
+        data-last-modified="Wed, 27 Dec 2017 16:15:13 GMT">
+
   </div>
 
-  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
-  <div id="jump-to-line" style="display:none">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
-      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-      <button type="submit" class="btn">Go</button>
-</form>  </div>
+    </div>
+
+    
+
+      Please <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fpajser-bl%2FISZ2017%2Fcommit%2F26cd8d5b8d698a80428550fb834387676ba6985e" rel="nofollow">sign in</a> to comment.
+
+  </div>
 
 
   </div>
@@ -708,7 +1778,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.19344s from unicorn-1625176262-199jg">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.42499s from unicorn-506656174-ns7mk">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -743,9 +1813,9 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha256-+xnpyXbt6GVODbcDcHIEoyLXhTRuY1OEN4fS1Kp+FA4=" src="https://assets-cdn.github.com/assets/frameworks-fb19e9c976ede8654e0db703707204a322d785346e6353843787d2d4aa7e140e.js"></script>
+    <script crossorigin="anonymous" integrity="sha256-etQ4YhDHIXDOjkHjeUh/K4q4lDHNVVR2EMtnd9rmWUk=" src="https://assets-cdn.github.com/assets/frameworks-7ad4386210c72170ce8e41e379487f2b8ab89431cd55547610cb6777dae65949.js"></script>
     
-    <script async="async" crossorigin="anonymous" integrity="sha256-UYMO+8DFvDojOCewqCRx/BYHPtm4ob5q8+EqnnhQ06I=" src="https://assets-cdn.github.com/assets/github-51830efbc0c5bc3a233827b0a82471fc16073ed9b8a1be6af3e12a9e7850d3a2.js"></script>
+    <script async="async" crossorigin="anonymous" integrity="sha256-eC0WCzv/N54RYYJhz1zkcl8Cnd/4k5Y/iHFa6e497tE=" src="https://assets-cdn.github.com/assets/github-782d160b3bff379e11618261cf5ce4725f029ddff893963f88715ae9ee3deed1.js"></script>
     
     
     
