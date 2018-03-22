@@ -623,7 +623,7 @@
 															"height": 13,
 															"autoResize": false,
 															"underline": false,
-															"text": ": IzvjestajForm",
+															"text": ": IntervencijaForm",
 															"horizontalAlignment": 2,
 															"verticalAlignment": 5,
 															"wordWrap": false
@@ -990,9 +990,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 105,
+													"left": 103,
 													"top": 136,
-													"width": 154.63525390625,
+													"width": 158.9453125,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -1002,7 +1002,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "1 : kreirajNoviIzvjestaj()",
+													"text": "1 : kreirajNovuIntervenciju()",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -1199,7 +1199,7 @@
 															"height": 13,
 															"autoResize": false,
 															"underline": false,
-															"text": ": IzvjestajControl",
+															"text": ": IntervencijaControl",
 															"horizontalAlignment": 2,
 															"verticalAlignment": 5,
 															"wordWrap": false
@@ -8943,7 +8943,7 @@
 									"visibility": "public",
 									"messageSort": "synchCall",
 									"signature": {
-										"$ref": "AAAAAAFh6E9cVmVY6ag="
+										"$ref": "AAAAAAFiTtoimdXCAWA="
 									},
 									"isConcurrentIteration": false
 								},
@@ -9856,7 +9856,7 @@
 							"isStatic": false,
 							"isLeaf": false,
 							"type": {
-								"$ref": "AAAAAAFh6KK8sWgOfbE="
+								"$ref": "AAAAAAFiTtpKxdXF3Lw="
 							},
 							"isReadOnly": false,
 							"isOrdered": false,
@@ -9896,7 +9896,7 @@
 							"isStatic": false,
 							"isLeaf": false,
 							"type": {
-								"$ref": "AAAAAAFh6FejLGWDDtc="
+								"$ref": "AAAAAAFiTtpxINXIFs4="
 							},
 							"isReadOnly": false,
 							"isOrdered": false,
@@ -10468,6 +10468,20 @@
 							"concurrency": "sequential",
 							"isQuery": false,
 							"isAbstract": false
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAFiTtoimdXCAWA=",
+							"_parent": {
+								"$ref": "AAAAAAFh6KK8sWgOfbE="
+							},
+							"name": "kreirajNovuIntervenciju",
+							"visibility": "public",
+							"isStatic": false,
+							"isLeaf": false,
+							"concurrency": "sequential",
+							"isQuery": false,
+							"isAbstract": false
 						}
 					],
 					"isAbstract": false,
@@ -10612,6 +10626,32 @@
 							"isAbstract": false
 						}
 					],
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false,
+					"isActive": false
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAFiTtpKxdXF3Lw=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "IntervencijaForm",
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false,
+					"isActive": false
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAFiTtpxINXIFs4=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "IntervencijaControl",
+					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
 					"isLeaf": false,
