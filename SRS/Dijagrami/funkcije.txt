@@ -1,0 +1,99 @@
++LISTA KORISNIKA:
+
+	provjeraKredencijala(Kredencijali):boolean
+	provjeraUnikatnosti(Korisnik):boolean
+	ocitajListu(""/String/int):Korisnik[*]
+	ocitajKorisnika(int):Korisnik
+	eksportuj:
+
++LISTA TRENUTNO PRIJAVLJENIH KORISNIKA:
+
+	dodajKorisnikaUListu(Korisnik):
+	ukloniKorisnikaIzListe(Korisnik)
+	ocitajListu(String/""/int):Korisnik[*]
+	ocitajKorisnika(int):Korisnik
+
++MAPA:
+
+	prikaziKoordinate(String/""):Koordinata[*]
+	prikaziKoordinatu(TerenskiRadnik/Klijent):
+	doadajKoordinate(Korisnik/Klijent):
+	ukloniKoordinate(Korisnik/Klijent):
+
++LISTA STANJA TERENSKIH RADNIKA:
+
+	ocitajListu(String/""):TerenskiRadnik[*]
+	ocitajTerenskogRadnika(int):TerenskiRadnik
+	postaviStanje(Stanje,TerenskiRadnik):
+
++LISTA PRETPLATNKA:
+
+	oclitajListu(String/""):Pretplatnik[*]
+	ocitajPretplatplatnika(int):Pretplatnik ~parametrizovan pretplatnik NOTE
+	eksportuj():
+
++LISTA INTERVENCIJA:
+	
+	ocitajListu(String/""):Intervencija[*]
+	ocitajIntervenciju(int):Intervencija
+	generisiBrojNoveIntervencije():int-----UKINUTO
+	dodajIntervenicjuUListu(Intervencija):
+	ukloniIntervencijuIzListe(Intervencija):
+	eksportuj():
+
++LISTA IZVJESTAJA:
+
+	dodajIzvjestaj(Izvjestaj):
+	ocitajListu(String/""):Izvjestaj[*]
+	ocitajIzvjestaj(int):Izvjestaj
+	eksportuj():
+	
++LISTA SESIJA:
+	ocitajListu(String/""):Sesija[*]
+	ocitajSesiju(int):Sesija
+	eksportuj():
+
+========================
+
++SESIJA:
+
+	upisiDogadjaj(String):
+	zatvori():
+	ocitajPodatke():String[*]
+	eksportuj():
+
++IZVJESTAJ:
+
+	dodajNapomenu(String):
+	ocitajPodatke():String[*]
+	eksportuj():
+
++PRETPLATNIK:
+
+	ocitajPodatke():String[*]
+	produziClanstvo()
+	eksportuj():
+
++KORISNICKI NALOG:
+
+	ocitajKredencijale():Kredencijali
+	ocitajPodatke():String[*]
+	promjenji(Korisnik):
+	eksportuj():
+
++KREDENCIJALI:
+
+	ocitajPodatke():String[*]
+	eksportuj():
+	izmjeni(String):
+
++INTERVENCIJA:
+
+	zatvori():
+	dodajTerenskiIzvjestaj(TerenskiIzvjestaj):
+	ocitajPodatke():String[*]
+	posaljiTerenskomRadniku(TerenskiRadnik):
+
++TERENSKI IZVJESTAJ:
+
+	dodajNapomenu():
