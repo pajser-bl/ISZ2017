@@ -1437,7 +1437,7 @@
 											"height": 52,
 											"autoResize": false,
 											"underline": false,
-											"text": "Zahtjev za popunjavanje terenskog izvještaja",
+											"text": "Zahtjevanje popunjavanja terenskog izvještaja",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": true
@@ -1611,11 +1611,11 @@
 											"containerExtending": false,
 											"left": 61,
 											"top": 383,
-											"width": 167.6416015625,
+											"width": 173.41162109375,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Evaluacija situacije klijenta",
+											"text": "Evaluiranje situacije klijenta",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -1683,7 +1683,7 @@
 									"containerExtending": false,
 									"left": 56,
 									"top": 376,
-									"width": 177.6416015625,
+									"width": 183.41162109375,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1714,7 +1714,7 @@
 							"containerExtending": false,
 							"left": 56,
 							"top": 376,
-							"width": 177.6416015625,
+							"width": 183.41162109375,
 							"height": 41,
 							"autoResize": true,
 							"stereotypeDisplay": "label",
@@ -1856,7 +1856,7 @@
 								"$ref": "AAAAAAFgw0quuticHMA="
 							},
 							"lineStyle": 0,
-							"points": "211:176;432:176;432:264",
+							"points": "223:176;432:176;432:264",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -1999,7 +1999,7 @@
 								"$ref": "AAAAAAFgw0quu9jAtvE="
 							},
 							"lineStyle": 0,
-							"points": "432:330;432:396;233:396",
+							"points": "432:330;432:396;238:396",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -2219,9 +2219,9 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 360,
+									"left": 359,
 									"top": 1120,
-									"width": 25.29541015625,
+									"width": 27.45361328125,
 									"height": 13,
 									"autoResize": false,
 									"alpha": 1.6136882071353444,
@@ -2231,7 +2231,7 @@
 									},
 									"edgePosition": 1,
 									"underline": false,
-									"text": " [da]",
+									"text": " [Da]",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5,
 									"wordWrap": false
@@ -2575,11 +2575,11 @@
 											"containerExtending": false,
 											"left": 69,
 											"top": 159,
-											"width": 138.0107421875,
+											"width": 149.5634765625,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Dolazak na lice mjesta",
+											"text": "Dolaženje na lice mjesta",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2647,7 +2647,7 @@
 									"containerExtending": false,
 									"left": 64,
 									"top": 152,
-									"width": 148.0107421875,
+									"width": 159.5634765625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -2678,7 +2678,7 @@
 							"containerExtending": false,
 							"left": 64,
 							"top": 152,
-							"width": 148.0107421875,
+							"width": 159.5634765625,
 							"height": 41,
 							"autoResize": true,
 							"stereotypeDisplay": "label",
@@ -3306,11 +3306,11 @@
 											"containerExtending": false,
 											"left": 109,
 											"top": 1183,
-											"width": 78.7744140625,
+											"width": 84.54443359375,
 											"height": 39,
 											"autoResize": false,
 											"underline": false,
-											"text": "Reevaluacija situacije klijenta",
+											"text": "Reevaluiranje situacije klijenta",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": true
@@ -3378,7 +3378,7 @@
 									"containerExtending": false,
 									"left": 104,
 									"top": 1176,
-									"width": 88.7744140625,
+									"width": 94.54443359375,
 									"height": 51,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -3406,7 +3406,7 @@
 							"containerExtending": false,
 							"left": 104,
 							"top": 1176,
-							"width": 88.7744140625,
+							"width": 94.54443359375,
 							"height": 67,
 							"autoResize": false,
 							"stereotypeDisplay": "label",
@@ -3733,9 +3733,9 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 472,
+									"left": 471,
 									"top": 1119,
-									"width": 25.29541015625,
+									"width": 27.45361328125,
 									"height": 13,
 									"autoResize": false,
 									"alpha": -1.9138205365878078,
@@ -3745,7 +3745,7 @@
 									},
 									"edgePosition": 1,
 									"underline": false,
-									"text": " [ne]",
+									"text": " [Ne]",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5,
 									"wordWrap": false
@@ -4054,7 +4054,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFgw0quvtkLvms="
 					},
-					"name": "Reevaluacija situacije klijenta",
+					"name": "Reevaluiranje situacije klijenta",
 					"visibility": "public",
 					"kind": "opaque",
 					"isLocallyReentrant": false,
@@ -4667,7 +4667,7 @@
 						"$ref": "AAAAAAFgw0quvtj6MGE="
 					},
 					"visibility": "public",
-					"guard": "da"
+					"guard": "Da"
 				},
 				{
 					"_type": "UMLControlFlow",
@@ -4710,7 +4710,7 @@
 						"$ref": "AAAAAAFgw0quvtj/S+s="
 					},
 					"visibility": "public",
-					"guard": "ne"
+					"guard": "Ne"
 				}
 			],
 			"groups": [
@@ -4750,7 +4750,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFgw0quvtj9qDU="
 							},
-							"name": "Zahtjev za popunjavanje terenskog izvještaja",
+							"name": "Zahtjevanje popunjavanja terenskog izvještaja",
 							"visibility": "public",
 							"kind": "opaque",
 							"isLocallyReentrant": false,
@@ -4762,7 +4762,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFgw0quvtj9qDU="
 							},
-							"name": "Evaluacija situacije klijenta",
+							"name": "Evaluiranje situacije klijenta",
 							"visibility": "public",
 							"kind": "opaque",
 							"isLocallyReentrant": false,
@@ -4803,7 +4803,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFgw0quvtj9qDU="
 							},
-							"name": "Dolazak na lice mjesta",
+							"name": "Dolaženje na lice mjesta",
 							"visibility": "public",
 							"kind": "opaque",
 							"isLocallyReentrant": false,
