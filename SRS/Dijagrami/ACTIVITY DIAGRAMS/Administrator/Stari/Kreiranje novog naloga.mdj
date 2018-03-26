@@ -868,7 +868,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Ažuriranje liste korisnika",
+													"text": "Ažuriranje liste zaposlenih",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -2891,7 +2891,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Lista korisnika",
+													"text": "Lista zaposlenih",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -4558,7 +4558,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFiJVcBR/KpYoU="
 									},
-									"name": "Ažuriranje liste korisnika",
+									"name": "Ažuriranje liste zaposlenih",
 									"visibility": "public",
 									"kind": "opaque",
 									"isLocallyReentrant": false,
@@ -4603,7 +4603,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFiJVcBR/KpYoU="
 									},
-									"name": "Lista korisnika",
+									"name": "Lista zaposlenih",
 									"visibility": "public",
 									"isControlType": false,
 									"ordering": "FIFO"

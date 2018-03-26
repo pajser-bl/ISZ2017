@@ -278,7 +278,7 @@
 													"containerExtending": false,
 													"left": -16,
 													"top": 16,
-													"width": 90,
+													"width": 86.6708984375,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
@@ -596,7 +596,7 @@
 													"containerExtending": false,
 													"left": -80,
 													"top": -16,
-													"width": 90,
+													"width": 86.6708984375,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
@@ -1057,7 +1057,7 @@
 													"containerExtending": false,
 													"left": -64,
 													"top": -64,
-													"width": 90,
+													"width": 86.6708984375,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
@@ -1415,7 +1415,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Lista korisnika",
+													"text": "Lista zaposlenih",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -2200,7 +2200,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Ažuriranje liste korisnika",
+													"text": "Ažuriranje liste zaposlenih",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -2400,7 +2400,7 @@
 													"containerExtending": false,
 													"left": -64,
 													"top": 16,
-													"width": 90,
+													"width": 86.6708984375,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
@@ -2515,9 +2515,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 359,
+											"left": 360,
 											"top": 216,
-											"width": 84,
+											"width": 83.83349609375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.6926379058610506,
@@ -4047,7 +4047,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFiJX8iA03Fo0M="
 									},
-									"name": "Lista korisnika",
+									"name": "Lista zaposlenih",
 									"visibility": "public",
 									"isControlType": false,
 									"ordering": "FIFO"
@@ -4070,7 +4070,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFiJX8iA03Fo0M="
 									},
-									"name": "Ažuriranje liste korisnika",
+									"name": "Ažuriranje liste zaposlenih",
 									"visibility": "public",
 									"kind": "opaque",
 									"isLocallyReentrant": false,
