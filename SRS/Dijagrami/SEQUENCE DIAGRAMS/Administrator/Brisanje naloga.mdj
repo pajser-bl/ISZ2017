@@ -1774,12 +1774,6 @@
 												{
 													"_type": "UMLActivationView",
 													"_id": "AAAAAAFiR9/xO2zcEzc=",
-													"_parent": {
-														"$ref": "AAAAAAFiR9/xO2zYPiE="
-													},
-													"model": {
-														"$ref": "AAAAAAFiR9/xO2zXjuo="
-													},
 													"visible": true,
 													"enabled": true,
 													"lineColor": "#000000",
@@ -2759,9 +2753,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 509,
+													"left": 507,
 													"top": 376,
-													"width": 25.29541015625,
+													"width": 28,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -3282,7 +3276,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "13 : azuriranjeListe()",
+													"text": "13 : obrišiKorisnika()",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -4196,7 +4190,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFiR9kpEWvOh/o="
 									},
-									"name": "az",
+									"name": "obrišiKoisnika",
 									"source": {
 										"$ref": "AAAAAAFiR9oU3WwqzkM="
 									},
@@ -4206,7 +4200,7 @@
 									"visibility": "public",
 									"messageSort": "asynchCall",
 									"signature": {
-										"$ref": "AAAAAAFiYVR1ng8Cw30="
+										"$ref": "AAAAAAFiY1loOyVLlLY="
 									},
 									"isConcurrentIteration": false
 								},
@@ -4487,6 +4481,20 @@
 								"$ref": "AAAAAAFiYVHl8Q62Lac="
 							},
 							"name": "azuriranjeListe",
+							"visibility": "public",
+							"isStatic": false,
+							"isLeaf": false,
+							"concurrency": "sequential",
+							"isQuery": false,
+							"isAbstract": false
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAFiY1loOyVLlLY=",
+							"_parent": {
+								"$ref": "AAAAAAFiYVHl8Q62Lac="
+							},
+							"name": "obrišiKorisnika",
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,

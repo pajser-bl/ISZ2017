@@ -52,6 +52,20 @@
 							"concurrency": "sequential",
 							"isQuery": false,
 							"isAbstract": false
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAFiY1rhCU6TmIo=",
+							"_parent": {
+								"$ref": "AAAAAAFiM6/sBGsqFN4="
+							},
+							"name": "dodajKorisnika",
+							"visibility": "public",
+							"isStatic": false,
+							"isLeaf": false,
+							"concurrency": "sequential",
+							"isQuery": false,
+							"isAbstract": false
 						}
 					],
 					"isAbstract": false,
@@ -3895,7 +3909,7 @@
 													"containerExtending": false,
 													"left": 423,
 													"top": 680,
-													"width": 118.498046875,
+													"width": 119.22802734375,
 													"height": 13,
 													"autoResize": false,
 													"alpha": -1.8490953254225249,
@@ -3905,7 +3919,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "14 : azuriranjeListe()",
+													"text": "14 : dodajKorisnika()",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -4619,7 +4633,7 @@
 									"visibility": "public",
 									"messageSort": "asynchCall",
 									"signature": {
-										"$ref": "AAAAAAFiYVbi1tPxErg="
+										"$ref": "AAAAAAFiY1rhCU6TmIo="
 									},
 									"isConcurrentIteration": false
 								},
