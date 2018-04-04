@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" text="Supervizor Form" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+         <children>
+            <TabPane layoutY="46.0" prefHeight="327.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE">
+              <tabs>
+                <Tab text="Aktivni korisnici">
+                  <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <ImageView fitHeight="152.0" fitWidth="552.0" layoutX="24.0" layoutY="57.0">
+                                 <image>
+                                    <Image url="@aktivni%20korisnici.JPG" />
+                                 </image>
+                              </ImageView>
+                              <Button layoutX="524.0" layoutY="237.0" mnemonicParsing="false" text="Otvori" />
+                              <TextField layoutX="24.0" layoutY="13.0" text="pretraži..." />
+                           </children>
+                        </AnchorPane>
+                  </content>
+                </Tab>
+                <Tab text="Pretplatnici">
+                  <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <Button layoutX="434.0" layoutY="249.0" mnemonicParsing="false" text="Dodaj novog pretplatnika" />
+                              <Button layoutX="537.0" layoutY="215.0" mnemonicParsing="false" text="Otvori" />
+                              <ImageView fitHeight="125.0" fitWidth="423.0" layoutX="19.0" layoutY="49.0">
+                                 <image>
+                                    <Image url="@tabela%20pretplatnici.JPG" />
+                                 </image>
+                              </ImageView>
+                              <TextField layoutX="19.0" layoutY="14.0" text="pretraži..." />
+                           </children>
+                        </AnchorPane>
+                  </content>
+                </Tab>
+                  <Tab text="Sesije">
+                     <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <Button layoutX="524.0" layoutY="215.0" mnemonicParsing="false" text="Otvori" />
+                              <ImageView fitHeight="136.0" fitWidth="557.0" layoutX="20.0" layoutY="63.0">
+                                 <image>
+                                    <Image url="@tabela%20sesija.JPG" />
+                                 </image>
+                              </ImageView>
+                              <TextField layoutX="20.0" layoutY="24.0" text="pretraži..." />
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </Tab>
+                  <Tab text="Izvještaji">
+                     <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <TextField layoutX="14.0" layoutY="27.0" text="pretraži..." />
+                              <Button layoutX="443.0" layoutY="259.0" mnemonicParsing="false" text="Izvođenje dokumenata" />
+                              <Button layoutX="528.0" layoutY="225.0" mnemonicParsing="false" text="Otvori" />
+                              <ImageView fitHeight="154.0" fitWidth="572.0" layoutX="16.0" layoutY="60.0">
+                                 <image>
+                                    <Image url="@tabela%20izvjestaji.JPG" />
+                                 </image>
+                              </ImageView>
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </Tab>
+                  <Tab text="Intervencija">
+                     <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <Button layoutX="524.0" layoutY="237.0" mnemonicParsing="false" text="Otvori" />
+                              <TextField layoutX="14.0" layoutY="29.0" text="pretraži..." />
+                              <ImageView fitHeight="164.0" fitWidth="563.0" layoutX="14.0" layoutY="60.0">
+                                 <image>
+                                    <Image url="@tabela%20intervencija.JPG" />
+                                 </image>
+                              </ImageView>
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </Tab>
+              </tabs>
+            </TabPane>
+            <Button layoutX="531.0" layoutY="9.0" mnemonicParsing="false" text="Odjava" />
+            <Button layoutX="468.0" layoutY="9.0" mnemonicParsing="false" text="Pomoć" />
+         </children></AnchorPane>
+  </content>
+</TitledPane>
