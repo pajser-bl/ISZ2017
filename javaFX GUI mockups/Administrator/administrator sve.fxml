@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="675.0" text="untitled" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+         <children>
+            <TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="675.0" text="Administrator Form">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TabPane layoutY="46.0" prefHeight="327.0" prefWidth="675.0" tabClosingPolicy="UNAVAILABLE">
+                           <tabs>
+                              <Tab text="Upravljanje nalozima">
+                                 <content>
+                                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="298.0" prefWidth="674.0">
+                                       <children>
+                                          <Button layoutX="21.0" layoutY="31.0" mnemonicParsing="false" text="Otvori nalog" />
+                                          <Button layoutX="19.0" layoutY="74.0" mnemonicParsing="false" text="Kreiranje naloga" />
+                                          <Button layoutX="22.0" layoutY="174.0" mnemonicParsing="false" text="Brisanje naloga" />
+                                          <Button layoutX="21.0" layoutY="124.0" mnemonicParsing="false" text="Mijenjanje naloga" />
+                                          <ImageView fitHeight="168.0" fitWidth="437.0" layoutX="167.0" layoutY="36.0">
+                                             <image>
+                                                <Image url="@tabela%20nalozi.JPG" />
+                                             </image>
+                                          </ImageView>
+                                       </children>
+                                    </AnchorPane>
+                                 </content>
+                              </Tab>
+                           </tabs>
+                        </TabPane>
+                        <Button layoutX="592.0" layoutY="9.0" mnemonicParsing="false" text="Odjava" />
+                        <Button layoutX="523.0" layoutY="9.0" mnemonicParsing="false" text="Pomoć" />
+                        <Button layoutX="14.0" layoutY="9.0" mnemonicParsing="false" text="Parametri servera" />
+                     </children>
+                  </AnchorPane>
+               </content>
+            </TitledPane>
+         </children></AnchorPane>
+  </content>
+</TitledPane>
